@@ -16,12 +16,12 @@ function whileLoop(n) {
 }
 
 let i = 0;
- 
+
 
 function doWhileLoop(num) {
   num = num - 1;
 }
- 
+
 do {
   console.log("I run once regardless.");
 } while (num>0);
