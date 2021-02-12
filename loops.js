@@ -20,6 +20,7 @@ let i = 0;
 
 function doWhileLoop(num) {
   num = num - 1;
+  return num;
 }
 
 do {
