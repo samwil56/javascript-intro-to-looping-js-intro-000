@@ -21,6 +21,6 @@ let i = 0;
 function doWhileLoop(num) {
   do {
     console.log("I run once regardless.");
-  } while (doWhileLoop > 0 );
-  num = num - 1;
+    num = num - 1
+  } while (num > 0 );
 }
