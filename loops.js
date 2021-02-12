@@ -24,6 +24,6 @@ function doWhileLoop(num) {
   } while (doWhileLoop > 0 );
   num = num - 1;
   return num;
-  
+
 
 }
