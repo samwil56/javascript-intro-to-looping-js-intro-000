@@ -1,4 +1,4 @@
-let str = ()
+let str = []
 function forLoop(strin) {
   for(let i = 1; i<25; i +=1) {
     if (i==1) {strin.push(`I am ${i} strange loop.`)}
