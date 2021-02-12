@@ -23,7 +23,4 @@ function doWhileLoop(num) {
     console.log("I run once regardless.");
   } while (doWhileLoop > 0 );
   num = num - 1;
-  return num;
-
-
 }
