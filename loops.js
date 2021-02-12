@@ -6,3 +6,10 @@ function forLoop(strin) {
   }
   return strin
 }
+
+function whileLoop(n) {
+  while (n >= 0) {
+    return n
+    n = n-1
+  }
+}
